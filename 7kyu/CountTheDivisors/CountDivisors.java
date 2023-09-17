@@ -14,8 +14,5 @@ public class CountDivisors {
 
      long s = numberOfDivisors(30);
      System.out.println(s);
-     
-
-
     }
 }
