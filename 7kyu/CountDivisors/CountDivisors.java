@@ -1,4 +1,5 @@
-package CountTheDivisors;
+package CountDivisors;
+ 
 public class CountDivisors {
 
   static  public long numberOfDivisors(int n) {
