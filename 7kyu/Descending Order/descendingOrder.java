@@ -14,6 +14,7 @@ import java.util.Arrays;
          return Integer.valueOf(s);
     }
 
+  
      public static void main(String[] args) {
         System.out.println(sortDesc(32145));    
      }
